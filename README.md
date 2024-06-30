@@ -55,8 +55,6 @@ additional_command: "broadcast Игрок {player} был забанен за и
 git clone https://github.com/yourusername/ChatBan.git
 ```
 ### Перейдите в директорию проекта:
-```yaml cd ChatBan
-```
+```yaml cd ChatBan```
 ### Соберите проект:
-```yaml mvn clean package
-```
+```yaml mvn clean package ```
