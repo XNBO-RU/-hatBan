@@ -50,9 +50,12 @@ additional_command: "broadcast Игрок {player} был забанен за и
 
 ## Сборка проекта
 Для сборки проекта используйте Maven.
-Клонируйте репозиторий:
-```{sh} {git clone https://github.com/yourusername/ChatBan.git}```
-Перейдите в директорию проекта:
-```cd ChatBan```
-Соберите проект:
-```mvn clean package```
+### Клонируйте репозиторий:
+```yaml
+git clone https://github.com/yourusername/ChatBan.git```
+### Перейдите в директорию проекта:
+``yaml
+cd ChatBan```
+### Соберите проект:
+```yaml
+mvn clean package```
