@@ -52,7 +52,7 @@ additional_command: "broadcast Игрок {player} был забанен за и
 Для сборки проекта используйте Maven.
 ### Клонируйте репозиторий:
 ```yaml
-git clone https://github.com/yourusername/ChatBan.git
+git clone https://github.com/XNBO-RU/ChatBan/ChatBan.git
 ```
 ### Перейдите в директорию проекта:
 ```yaml
