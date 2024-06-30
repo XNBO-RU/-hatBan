@@ -46,17 +46,13 @@ additional_command: "broadcast Игрок {player} был забанен за и
 - Настройте конфигурационный файл config.yml в папке plugins/ChatBan.
 
 ## Команды
-`/chatban reload` - Перезагрузка конфигурационного файла плагина без перезапуска сервера.
+`/chatban reload` - Перезагрузка конфигурационного файла плагина без перезапуска сервера.```
 
 ## Сборка проекта
 Для сборки проекта используйте Maven.
 Клонируйте репозиторий:
 ```{sh} {git clone https://github.com/yourusername/ChatBan.git}```
 Перейдите в директорию проекта:
-sh
-Копировать код
-cd ChatBan
+```cd ChatBan```
 Соберите проект:
-sh
-Копировать код
-mvn clean package
+```mvn clean package```
