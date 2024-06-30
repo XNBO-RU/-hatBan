@@ -56,7 +56,10 @@ git clone https://github.com/yourusername/ChatBan.git
 ```
 ### Перейдите в директорию проекта:
 ```yaml
-cd ChatBan```
+cd ChatBan
+```
+
 ### Соберите проект:
 ```yaml
- mvn clean package ```
+ mvn clean package
+```
