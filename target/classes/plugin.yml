@@ -1,0 +1,9 @@
+name: ChatBan
+version: '1.0-SNAPSHOT'
+main: org.xnbo.chatban.ChatBan
+author: XINBOSHIN
+api-version: '1.16'
+commands:
+  chatbanreload:
+    description: Reloads the ChatBan plugin configuration
+    usage: /chatbanreload
